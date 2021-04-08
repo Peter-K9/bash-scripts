@@ -1,2 +1,1 @@
-# bash-scripts
-This is a respository for all the bash scripts that I write.
+This script maps out IP Geo location on a GNUplot map
