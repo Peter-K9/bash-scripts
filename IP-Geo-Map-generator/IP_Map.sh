@@ -1,22 +1,6 @@
 #!/bin/bash
-#Peter Kalis 
 
-
-#-------------------------------------------------------------------------------
-#Project description 
-#For this project the first step I took was to figure out the basic steps that 
-#need to happen. Which were to loop through the input file, remove the port 
-#number,make the curl commands,and output the json data to a file. After the 
-#came part2 which was to graph the ips in gnuplot Which used the json data file 
-#that I created. Whenever I encountered a problem I would look the error
-#code/description if I got one and if the output wasn'tcorrect or what I 
-#was expecting I would search for an answer that  fits theproblem that I
-#was faceing.
-#-------------------------------------------------------------------------------
-
-#------
-#Part 1
-#------
+# part 1
 ip_noPort=0
 
 #loops through the input file to create the data file need to make the graph
