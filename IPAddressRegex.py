@@ -1,7 +1,3 @@
-# Peter Kalis
-# CSC-382
-# Exam 2
-
 #library that is used for regex
 import re
 
